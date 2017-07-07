@@ -13,13 +13,21 @@
 
 ## Posts:
 - [信息抽取和关系发现概述](http://www.voidcn.com/blog/my_did/article/p-6028942.html)  
-- [PaperWeekly 第31期 | 远程监督在关系抽取中的应用](http://www.sohu.com/a/131648756_465975)
 - [事件抽取](https://kiseliu.github.io/2016/10/12/%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96/)
+- [PaperWeekly 第31期 | 远程监督在关系抽取中的应用](http://www.sohu.com/a/131648756_465975)
 
 
 ## Projects:
 - [Neural Relation Extraction (NRE)](https://github.com/thunlp/NRE)
 - [ChineseNER](https://github.com/zjy-ucas/ChineseNER)
+- [CoType: Joint Typing of Entities and Relations with Knowledge Bases](https://github.com/shanzhenren/CoType)
+- [Chinese Open Information Extraction](https://github.com/tim5go/zhopenie)
+- [Information Extraction in Python](https://github.com/machinalis/iepy)
+- [NeuroNER](https://github.com/Franck-Dernoncourt/NeuroNER)
+- [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
+- [Python wrapper for Stanford OpenIE](https://github.com/philipperemy/Stanford-OpenIE-Python)
+- [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
+
 
 
 
@@ -29,9 +37,10 @@
 
 ## People:
 - [刘康](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html)
-- [Yangqiu Song (宋阳秋)](https://www.cse.ust.hk/~yqsong/)
 - [赵军](http://www.nlpr.ia.ac.cn/cip/jzhao.htm)
 - [刘挺](http://ir.hit.edu.cn/~liuting/)
+- [车万翔](http://ir.hit.edu.cn/~car/chinese.htm)
+- [Yangqiu Song (宋阳秋)](https://www.cse.ust.hk/~yqsong/)
 
 
 ## Others:
