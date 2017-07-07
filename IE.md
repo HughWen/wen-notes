@@ -5,11 +5,10 @@
 - [中文事件抽取技术研究](http://d.wanfangdata.com.cn/Periodical/zwxxxb200801001)
 - [Automatically Labeled Data Generation for Large Scale Event Extraction](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Chen.pdf)
 - [Joint Extraction of Events and Entities within a Document Context ](http://www.cs.cmu.edu/~bishan/papers/joint_event_naacl16.pdf)
-- [Distant Supervision for Relation Extraction via Piecewise
-Convolutional Neural Networks](http://anthology.aclweb.org/D/D15/D15-1203.pdf)
+- [Distant Supervision for Relation Extraction via Piecewise Convolutional Neural Networks](http://anthology.aclweb.org/D/D15/D15-1203.pdf)
 - [Neural Relation Extraction with Selective Attention over Instances](http://anthology.aclweb.org/P/P16/P16-1200.pdf)
-- [Distant Supervision for Relation Extraction with
-Sentence-Level Attention and Entity Descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14491/14078)
+- [Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14491/14078)
+- [Joint Modeling of Content and Discourse Relations in Dialogues](https://arxiv.org/pdf/1705.05039.pdf)
 
 
 ## Posts:
@@ -20,7 +19,8 @@ Sentence-Level Attention and Entity Descriptions](https://www.aaai.org/ocs/index
 
 ## Projects:
 - [Neural Relation Extraction (NRE)](https://github.com/thunlp/NRE)
-- 
+- [ChineseNER](https://github.com/zjy-ucas/ChineseNER)
+
 
 
 ## Conferences:
