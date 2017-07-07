@@ -1,10 +1,15 @@
 # Information Extraction Notes
 
+
 ## Papers:
 - [中文事件抽取技术研究](http://d.wanfangdata.com.cn/Periodical/zwxxxb200801001)
 - [Automatically Labeled Data Generation for Large Scale Event Extraction](http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Chen.pdf)
 - [Joint Extraction of Events and Entities within a Document Context ](http://www.cs.cmu.edu/~bishan/papers/joint_event_naacl16.pdf)
-
+- [Distant Supervision for Relation Extraction via Piecewise
+Convolutional Neural Networks](http://anthology.aclweb.org/D/D15/D15-1203.pdf)
+- [Neural Relation Extraction with Selective Attention over Instances](http://anthology.aclweb.org/P/P16/P16-1200.pdf)
+- [Distant Supervision for Relation Extraction with
+Sentence-Level Attention and Entity Descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14491/14078)
 
 
 ## Posts:
@@ -14,14 +19,20 @@
 
 
 ## Projects:
+- [Neural Relation Extraction (NRE)](https://github.com/thunlp/NRE)
+- 
 
 
 ## Conferences:
 - [Text Analysis Conference](https://tac.nist.gov/)
 
+
 ## People:
 - [刘康](http://www.nlpr.ia.ac.cn/cip/~liukang/index.html)
 - [Yangqiu Song (宋阳秋)](https://www.cse.ust.hk/~yqsong/)
+- [赵军](http://www.nlpr.ia.ac.cn/cip/jzhao.htm)
+- [刘挺](http://ir.hit.edu.cn/~liuting/)
+
 
 ## Others:
 - [大家能不能推荐一些有关事件抽取方面的论文?](https://www.zhihu.com/question/26817657)
