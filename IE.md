@@ -13,7 +13,7 @@
 - [Neural Relation Extraction with Selective Attention over Instances](http://anthology.aclweb.org/P/P16/P16-1200.pdf)
 - [Distant Supervision for Relation Extraction with Sentence-Level Attention and Entity Descriptions](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14491/14078)
 - [Joint Modeling of Content and Discourse Relations in Dialogues](https://arxiv.org/pdf/1705.05039.pdf)
-
+- [Named Entity Recognition and Compositional Morphology for Word Representations in Chinese](http://web.stanford.edu/class/cs224n/reports/2737045.pdf)
 
 ## Posts:
 - [信息抽取和关系发现概述](http://www.voidcn.com/blog/my_did/article/p-6028942.html)
