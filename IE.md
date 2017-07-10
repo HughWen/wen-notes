@@ -16,7 +16,7 @@
 
 
 ## Posts:
-- [信息抽取和关系发现概述](http://www.voidcn.com/blog/my_did/article/p-6028942.html)  
+- [信息抽取和关系发现概述](http://www.voidcn.com/blog/my_did/article/p-6028942.html)
 - [事件抽取](https://kiseliu.github.io/2016/10/12/%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96/)
 - [我们眼中的“关系抽取” | 每周话题精选 #02](https://zhuanlan.zhihu.com/p/27510376)
 - [PaperWeekly 第31期 | 远程监督在关系抽取中的应用](http://www.sohu.com/a/131648756_465975)
