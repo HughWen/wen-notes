@@ -20,6 +20,7 @@
 - [事件抽取](https://kiseliu.github.io/2016/10/12/%E4%BA%8B%E4%BB%B6%E6%8A%BD%E5%8F%96/)
 - [我们眼中的“关系抽取” | 每周话题精选 #02](https://zhuanlan.zhihu.com/p/27510376)
 - [PaperWeekly 第31期 | 远程监督在关系抽取中的应用](http://www.sohu.com/a/131648756_465975)
+- [信息抽取的关键技术和挑战](http://www.infoq.com/cn/news/2014/06/Information-extraction)
 
 
 ## Projects:
@@ -44,6 +45,7 @@
 - [赵军](http://www.nlpr.ia.ac.cn/cip/jzhao.htm)
 - [刘挺](http://ir.hit.edu.cn/~liuting/)
 - [车万翔](http://ir.hit.edu.cn/~car/chinese.htm)
+- [韩先培](http://www.icip.org.cn/Homepages/hanxianpei/index.htm)
 - [Yangqiu Song (宋阳秋)](https://www.cse.ust.hk/~yqsong/)
 
 
