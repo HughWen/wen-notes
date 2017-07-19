@@ -8,6 +8,8 @@ and evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 - [Generating Text with Deep Reinforcement Learning](https://arxiv.org/pdf/1510.09202.pdf)
 - [Deep Reinforcement Learning for Dialogue Generation](https://arxiv.org/pdf/1606.01541.pdf)
 - [Hierarchical Reinforcement Learning for Adaptive Text Generation](http://www.aclweb.org/anthology/W10-4204)
+- [Controlling Linguistic Style Aspects in Neural Language Generation](https://arxiv.org/pdf/1707.02633.pdf)
+
 
 ## Posts:
 - [What is Natural Language Generation?](https://narrativescience.com/Resources/Resource-Library/Article-Detail-Page/what-is-natural-language-generation)
@@ -24,6 +26,7 @@ and evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 
 ## People:
 - [Qiang Yang](http://home.cse.ust.hk/~qyang/)
+- [Yoav Goldberg](https://www.cs.bgu.ac.il/~yoavg/uni/)
 
 ## Others:
 - [NLG在自然语言处理领域中是否还有需要？](https://www.zhihu.com/question/52908831)
