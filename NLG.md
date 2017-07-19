@@ -11,10 +11,14 @@ and evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 - [How Trulia is using natural language generation](https://www.trulia.com/blog/tech/nlg-in-real-estate/)
 
 ## Projects:
+- [SimpleNLG](https://github.com/simplenlg/simplenlg)
+
 
 ## Conferences:
 
+
 ## People:
+
 
 ## Others:
 
