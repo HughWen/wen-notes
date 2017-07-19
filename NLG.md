@@ -21,4 +21,4 @@ and evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 
 
 ## Others:
-
+- [NLG在自然语言处理领域中是否还有需要？](https://www.zhihu.com/question/52908831)
