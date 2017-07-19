@@ -18,7 +18,7 @@ and evaluation](https://arxiv.org/pdf/1703.09902.pdf)
 
 ## Conferences:
 - [The International Natural Language Generation conference](http://www.macs.hw.ac.uk/InteractionLab/INLG2016/)
-
+- [The European Natural Language Generation](http://enlg2015.imag.fr/)
 
 ## People:
 - [Qiang Yang](http://home.cse.ust.hk/~qyang/)
