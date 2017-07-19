@@ -4,3 +4,4 @@ This repository is my notebook, I will make some notes about(but not only ) NLP(
 
 ## Notes List
 - [Information Extraction](https://github.com/HughWen/wen_notes/blob/master/IE.md)
+- [Natural Language Generation](https://github.com/HughWen/wen_notes/blob/master/NLG.md)
