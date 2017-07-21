@@ -74,6 +74,7 @@
 - [colah's blog](http://colah.github.io/)
 - [我爱自然语言处理](http://www.52nlp.cn/)
 - [自然语言处理|码农场](http://www.hankcs.com/nlp/)
+- [licstar的博客](http://licstar.net/archives/category/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86)
 
 
 ## Others:
