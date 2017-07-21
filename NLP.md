@@ -15,6 +15,7 @@
 - [mit-nlp](https://github.com/mit-nlp)
     - [MITIE: library and tools for information extraction](https://github.com/mit-nlp/MITIE)
 - [University of Illinois at Urbana-Champaign, Data Mining Group](https://github.com/UIUC-data-mining)
+    - [ClusType](https://github.com/UIUC-data-mining/ClusType)
 - [THUNLP](https://github.com/thunlp)
     - [THULAC-Python](https://github.com/thunlp/THULAC-Python)
     - [Neural Relation Extraction(NRE)](https://github.com/thunlp/TensorFlow-NRE)
