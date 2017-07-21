@@ -17,11 +17,16 @@
 - [HIT-SCIR](https://github.com/HIT-SCIR)
 - [NLP Group at Fudan University](https://github.com/FudanNLP)
 - [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
+- [SnowNLP: Simplified Chinese Text Processing](https://github.com/isnowfy/snownlp)
 - [awesome-nlp](https://github.com/keon/awesome-nlp)
 
 
 ## Groups & People
 - [The Stanford NLP Group](https://nlp.stanford.edu/)
+    - [Christopher Manning](https://nlp.stanford.edu/manning/)
+    - [DAN JURAFSKY](http://web.stanford.edu/~jurafsky/)
+    - [Percy Liang](http://cs.stanford.edu/~pliang/)
+    - [Richard Socher](http://www.socher.org/)
 - [The Berkeley NLP Group](http://nlp.cs.berkeley.edu/index.shtml)
 - [Natural Language Processing Group at MIT CSAIL](http://nlp.csail.mit.edu/)
 - [NLP research at Columbia](http://www1.cs.columbia.edu/nlp/index.cgi)
@@ -31,8 +36,13 @@
 - [Natural Language Computing (NLC) Group | MicroSoft](https://www.microsoft.com/en-us/research/group/natural-language-computing/)
 - [Natural Language Understanding Team | Google](https://research.google.com/teams/nlu/)
 - [THUNLP](http://nlp.csai.tsinghua.edu.cn/site2/)
+    - [Yang Liu](http://nlp.csai.tsinghua.edu.cn/~ly/)
+    - [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/)
 - [Language Computing & Web Mining Group | PKU](http://www.icst.pku.edu.cn/lcwm/index.php?title=%E9%A6%96%E9%A1%B5)
 - [HIT-SCIR](http://ir.hit.edu.cn/)
+    - [刘挺](http://ir.hit.edu.cn/~liuting/)
+    - [Haifeng WANG](http://ir.hit.edu.cn/~wanghaifeng/)
+    - [Wanxiang Che](http://ir.hit.edu.cn/~car/english.htm)
 - [NLP-ICT-CAS](http://nlp.ict.ac.cn/2017/index_zh.php)
 - [Noah Smith](http://homes.cs.washington.edu/~nasmith/index.html)
 - [Michael Collins](http://www.cs.columbia.edu/~mcollins/)
@@ -55,6 +65,7 @@
 
 ## Blog:
 - [natural language processing blog](https://nlpers.blogspot.com/)
+- [colah's blog](http://colah.github.io/)
 - [我爱自然语言处理](http://www.52nlp.cn/)
 - [自然语言处理|码农场](http://www.hankcs.com/nlp/)
 
