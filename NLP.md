@@ -11,10 +11,16 @@
 
 ## Projects & Organization:
 - [Stanford NLP](https://github.com/stanfordnlp)
+    - [CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 - [mit-nlp](https://github.com/mit-nlp)
+    - [MITIE: library and tools for information extraction](https://github.com/mit-nlp/MITIE)
 - [University of Illinois at Urbana-Champaign, Data Mining Group](https://github.com/UIUC-data-mining)
 - [THUNLP](https://github.com/thunlp)
+    - [THULAC-Python](https://github.com/thunlp/THULAC-Python)
+    - [Neural Relation Extraction(NRE)](https://github.com/thunlp/TensorFlow-NRE)
 - [HIT-SCIR](https://github.com/HIT-SCIR)
+    - [Language Technology Platform](https://github.com/HIT-SCIR/ltp)
+    - [pyltp: the python extension for LTP](https://github.com/HIT-SCIR/pyltp)
 - [NLP Group at Fudan University](https://github.com/FudanNLP)
 - [HanLP: Han Language Processing](https://github.com/hankcs/HanLP)
 - [SnowNLP: Simplified Chinese Text Processing](https://github.com/isnowfy/snownlp)
