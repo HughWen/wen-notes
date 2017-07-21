@@ -33,7 +33,7 @@
 - [Information Extraction with Reinforcement Learning](https://github.com/karthikncode/DeepRL-InformationExtraction)
 - [Python wrapper for Stanford OpenIE](https://github.com/philipperemy/Stanford-OpenIE-Python)
 - [Stanford CoreNLP](https://github.com/stanfordnlp/CoreNLP)
-
+- [MITIE](https://github.com/mit-nlp/MITIE)
 
 ## Conferences:
 - [Text Analysis Conference](https://tac.nist.gov/)
