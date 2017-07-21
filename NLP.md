@@ -9,7 +9,7 @@
 - [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239)
 
 
-## Projects & Organization:
+## Projects:
 - [Stanford NLP](https://github.com/stanfordnlp)
     - [CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 - [mit-nlp](https://github.com/mit-nlp)
