@@ -24,6 +24,7 @@
 
 
 ## Projects:
+- [DeepDive](https://github.com/HazyResearch/deepdive)
 - [Neural Relation Extraction (NRE)](https://github.com/thunlp/NRE)
 - [ChineseNER](https://github.com/zjy-ucas/ChineseNER)
 - [CoType: Joint Typing of Entities and Relations with Knowledge Bases](https://github.com/shanzhenren/CoType)
