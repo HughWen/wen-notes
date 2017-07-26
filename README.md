@@ -7,3 +7,6 @@ This repository is my notebook. I will make some notes about (but not only ) NLP
 - [Natural Language Processing](https://github.com/HughWen/wen_notes/blob/master/NLP.md)
 - [Information Extraction](https://github.com/HughWen/wen_notes/blob/master/IE.md)
 - [Natural Language Generation](https://github.com/HughWen/wen_notes/blob/master/NLG.md)
+
+
+![logo](yimiandata_logo-1.png)
