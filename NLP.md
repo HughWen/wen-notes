@@ -3,7 +3,8 @@
 
 ## Papers:
 - [Advances in natural language processing](https://cs224d.stanford.edu/papers/advances.pdf)
-
+- [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+- [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
 
 ## Posts:
 - [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239)
