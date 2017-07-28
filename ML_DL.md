@@ -2,11 +2,13 @@
 
 
 ## Papers:
+- [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661.pdf)
+- [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
 - [Deep learning](http://www.nature.com/nature/journal/v521/n7553/full/nature14539.html?foxtrotcallback=true)
 
 
 ## Posts:
-
+- [深度解读：GAN模型及其在2016年度的进展](https://www.leiphone.com/news/201701/Hrv1qUS6GYl1vl7O.html)
 
 
 ## Projects:
