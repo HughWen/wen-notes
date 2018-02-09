@@ -3,7 +3,6 @@
 
 ## Papers:
 - [Advances in natural language processing](https://cs224d.stanford.edu/papers/advances.pdf)
-- [Attention-based LSTM for Target-dependent Sentiment Classification](https://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14151/14248)
 
 ## Posts:
 - [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239)
