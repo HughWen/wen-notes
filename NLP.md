@@ -70,6 +70,14 @@
 - [COLING](http://coling2016.anlp.jp/#page-top)
 - [CoNLL](http://www.conll.org/)
 
+## Competition
+- SemEval
+    - [SemEval-2018](http://alt.qcri.org/semeval2018/)
+    - [SemEval-2017](http://alt.qcri.org/semeval2017/)
+    - [SemEval-2016](http://alt.qcri.org/semeval2016/)
+    - [SemEval-2015](http://alt.qcri.org/semeval2015/)
+    - [SemEval-2014](http://alt.qcri.org/semeval2014/)
+- [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
 
 ## Blog:
 - [natural language processing blog](https://nlpers.blogspot.com/)
