@@ -1,14 +1,16 @@
 # Natural Language Processing Notes
 
+## Papers
 
-## Papers:
 - [Advances in natural language processing](https://cs224d.stanford.edu/papers/advances.pdf)
 
-## Posts:
+## Posts
+
 - [Computational Linguistics and Deep Learning](http://www.mitpressjournals.org/doi/pdf/10.1162/COLI_a_00239)
 
 
-## Projects:
+## Projects
+
 - [Stanford NLP](https://github.com/stanfordnlp)
     - [CoreNLP](https://github.com/stanfordnlp/CoreNLP)
 - [mit-nlp](https://github.com/mit-nlp)
@@ -30,6 +32,7 @@
 
 
 ## Groups & People
+
 - [The Stanford NLP Group](https://nlp.stanford.edu/)
     - [Christopher Manning](https://nlp.stanford.edu/manning/)
     - [DAN JURAFSKY](http://web.stanford.edu/~jurafsky/)
@@ -61,7 +64,8 @@
 - [Yizhou Sun](http://web.cs.ucla.edu/~yzsun/)
 
 
-## Conferences:
+## Conferences
+
 - [ACL](https://www.aclweb.org/portal/acl)
 - [EACL](https://www.aclweb.org/portal/eacl)
 - [EMNLP](https://www.aclweb.org/portal/emnlp)
@@ -71,6 +75,7 @@
 - [CoNLL](http://www.conll.org/)
 
 ## Competition
+
 - SemEval
     - [SemEval-2018](http://alt.qcri.org/semeval2018/)
     - [SemEval-2017](http://alt.qcri.org/semeval2017/)
@@ -79,7 +84,8 @@
     - [SemEval-2014](http://alt.qcri.org/semeval2014/)
 - [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/)
 
-## Blog:
+## Blog
+
 - [natural language processing blog](https://nlpers.blogspot.com/)
 - [colah's blog](http://colah.github.io/)
 - [我爱自然语言处理](http://www.52nlp.cn/)
@@ -87,5 +93,6 @@
 - [licstar的博客](http://licstar.net/archives/category/%E8%87%AA%E7%84%B6%E8%AF%AD%E8%A8%80%E5%A4%84%E7%90%86)
 
 
-## Others:
+## Others
+
 - [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
