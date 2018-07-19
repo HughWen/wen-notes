@@ -7,4 +7,4 @@ This repository is my notebook. I will make some notes about (but not only ) NLP
 - [Natural Language Processing](https://github.com/HughWen/wen_notes/blob/master/NLP.md)
 - [Information Extraction](https://github.com/HughWen/wen_notes/blob/master/IE.md)
 - [Natural Language Generation](https://github.com/HughWen/wen_notes/blob/master/NLG.md)
-- [Security and Privacy of Machine Learning]()
+- [Security and Privacy of Machine Learning](https://github.com/HughWen/wen_notes/blob/master/SPML.md)
