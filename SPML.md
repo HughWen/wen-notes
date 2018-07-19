@@ -2,6 +2,10 @@
 
 ## Papers
 
+## Projects
+
+- [cleverhans](https://github.com/tensorflow/cleverhans)
+
 ## Groups & People
 
 - [Nicolas Papernot](https://www.papernot.fr/)
@@ -10,3 +14,4 @@
 ## Conferences
 
 - [S&P](https://www.ieee-security.org/TC/SP2018/)
+- [ICLR](https://iclr.cc/)
